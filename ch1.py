@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 def test_code():
-    print('Chapter 1 starts ...\n')
+    print('Ch1 starts ...\n')
 
 
 
-    print('Chapter 1 ends ...\n')
+    print('Ch1 ends ...\n')
 
